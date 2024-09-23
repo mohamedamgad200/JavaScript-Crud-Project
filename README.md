@@ -1,15 +1,16 @@
 <h2>JavaScript-Crud-Project</h2>
-<img src = 'JavaScript-Crud-Project
-/crud.PNG'>
+<img src="crud.PNG" alt="JavaScript Crud Project">
 
 <h4>Features</h4>
--Create products
--Delete product
--update product
--Show Products 
--Use local storage to save products
--Search by title of products
--Search by category of products
+<ul>
+  <li>Create products</li>
+  <li>Delete product</li>
+  <li>Update product</li>
+  <li>Show Products</li>
+  <li>Use local storage to save products</li>
+  <li>Search by title of products</li>
+  <li>Search by category of products</li>
+</ul>
 
 <h4>Technologies</h4>
 <p>HTML</p>
